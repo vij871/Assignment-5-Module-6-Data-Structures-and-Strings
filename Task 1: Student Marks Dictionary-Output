@@ -1,0 +1,17 @@
+Case 1: Student exists
+
+Input
+Enter the student's name: Alice
+
+Output
+Alice's marks are: 85
+
+----
+
+Case 2: Student does not exist
+
+Input
+Enter the student's name: John
+
+Output
+Student not found in the records.
